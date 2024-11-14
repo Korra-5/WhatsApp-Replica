@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JetpackCompose</string>
+    <string name="Inicio">WhatsApp</string>
+    <string name="Persona1">Gisela</string>
+    <string name="Persona2">Ruben</string>
+    <string name="Persona3">Gabi</string>
+    <string name="Persona4">Pablo</string>
+    <string name="Persona5">Jon</string>
+    <string name="Persona6">Messi</string>
+    <string name="Persona7">Antonio</string>
+    <string name="Persona8">Javier</string>
+    <string name="Persona9">Dani</string>
+    <string name="Persona10">Luis</string>
+    <string name="Persona11">Paul</string>
+
+</resources>
